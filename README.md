@@ -68,6 +68,7 @@ SELECT `Product line`,
 FROM catalog01.default.super_market_analysis
 GROUP BY `Product line`
 ORDER BY Profit_Margin DESC;
+<img width="1991" height="1309" alt="Image 6-15-26 at 1 43 AM" src="https://github.com/user-attachments/assets/266e1ebc-5b3a-46d3-b30d-6a53104fe29c" />
 
 
 -----Branch Performance----
